@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi, I'm Shezan Mahmud 👋</h1>
+  <p><em>Full-stack Developer | Open Source Enthusiast | Problem Solver</em></p>
+</div>
 
-<!--
-**b19szn/b19szn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=b19szn&show_icons=true&theme=radical&count_private=true" alt="Shezan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b19szn&layout=compact&theme=radical" alt="Top Langs" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently working on scalable web applications.
+- 🌱 I’m currently learning advanced system design and cloud architecture.
+- 💬 Ask me about **PHP, JavaScript, Laravel, or MySQL**.
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/b19szn/)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,vscode,nodejs" />
+  </a>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[Car Workshop](https://github.com/b19szn/Car-Workshop)** | Automotive service management system | `PHP`, `MySQL`, `CSS` |
+| **[Portfolio](https://github.com/b19szn/shezanmahmud)** | Modern developer portfolio | `HTML`, `CSS`, `JS` |
+| **[Utilities](https://github.com/b19szn/Fortune-Generator-Stopwatch-Todo-list)** | Productivity tool bundle | `JS`, `HTML` |
+
+---
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b19szn&theme=radical" alt="Profile Summary" />
+</div>
