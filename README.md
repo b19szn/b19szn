@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=b19szn&show_icons=true&theme=radical&count_private=true" alt="Shezan's GitHub Stats" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=b19szn&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=b19szn&show_icons=true&theme=tokyonight&count_private=true" alt="Shezan's GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=b19szn&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
 ---
@@ -39,5 +39,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b19szn&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b19szn&theme=tokyonight" alt="Profile Summary" />
 </div>
