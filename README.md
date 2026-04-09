@@ -34,7 +34,7 @@
 | :--- | :--- | :--- |
 | **[Car Workshop](https://github.com/b19szn/Car-Workshop)** | Automotive service management system | `PHP`, `MySQL`, `CSS` |
 | **[Portfolio](https://github.com/b19szn/shezanmahmud)** | Modern developer portfolio | `HTML`, `CSS`, `JS` |
-| **[Utilities](https://github.com/b19szn/Fortune-Generator-Stopwatch-Todo-list)** | Productivity tool bundle | `JS`, `HTML` |
+| **[Fortune & Tools](https://github.com/b19szn/Fortune-Generator-Stopwatch-Todo-list)** | Productivity tool bundle | `JS`, `HTML` |
 
 ---
 
