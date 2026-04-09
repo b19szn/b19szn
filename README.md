@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=b19szn&show_icons=true&bg_color=ffffff&title_color=41b883&text_color=273849&icon_color=41b883&count_private=true" alt="Shezan's GitHub Stats" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=b19szn&layout=compact&bg_color=ffffff&title_color=41b883&text_color=273849&icon_color=41b883" alt="Top Langs" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=b19szn&show_icons=true&bg_color=45,ffffff,f7fff7&title_color=41b883&text_color=273849&icon_color=41b883&count_private=true" alt="Shezan's GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=b19szn&layout=compact&bg_color=45,ffffff,f7fff7&title_color=41b883&text_color=273849&icon_color=41b883" alt="Top Langs" />
 </div>
 
 ---
