@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=b19szn&show_icons=true&bg_color=45,ffffff,f1f8f1&title_color=1b5e20&text_color=212121&icon_color=388e3c&count_private=true" alt="Shezan's GitHub Stats" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=b19szn&layout=compact&bg_color=45,ffffff,f1f8f1&title_color=1b5e20&text_color=212121&icon_color=388e3c" alt="Top Langs" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=b19szn&show_icons=true&bg_color=45,ffffff,f7fff7&title_color=41b883&text_color=273849&icon_color=41b883&count_private=true" alt="Shezan's GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=b19szn&layout=compact&bg_color=45,ffffff,f7fff7&title_color=41b883&text_color=273849&icon_color=41b883" alt="Top Langs" />
 </div>
 
 ---
@@ -39,5 +39,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b19szn&theme=merko" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b19szn&theme=vue" alt="Profile Summary" />
 </div>
