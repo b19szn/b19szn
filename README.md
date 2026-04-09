@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on scalable web applications.
 - 🌱 I’m currently learning advanced system design and cloud architecture.
 - 💬 Ask me about **PHP, JavaScript, Laravel, or MySQL**.
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/b19szn/)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/b19szn/) or [shezanmahmud2003@gmail.com](mailto:shezanmahmud2003@gmail.com)
 
 ---
 
