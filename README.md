@@ -43,6 +43,7 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| **[CivicTrack](https://github.com/b19szn/CivicTrack)** | Institutional issue management system | `PHP`, `Laravel`, `MySQL` |
 | **[Car Workshop](https://github.com/b19szn/Car-Workshop)** | Automotive service management system | `PHP`, `MySQL`, `CSS` |
 | **[Portfolio](https://github.com/b19szn/shezanmahmud)** | Modern developer portfolio | `HTML`, `CSS`, `JS` |
 | **[Fortune & Tools](https://github.com/b19szn/Fortune-Generator-Stopwatch-Todo-list)** | Productivity tool bundle | `JS`, `HTML` |
